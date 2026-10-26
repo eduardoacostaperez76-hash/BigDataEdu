@@ -1,6 +1,6 @@
 # Cargamos el dataset preprocesado y limpio
 df <- read.csv("airbnb_francia_master.csv", stringsAsFactors = FALSE)
-
+#Hola 13:40
 cat("\n📌 2. RESUMEN DEL MERCADO POR REGIÓN (Precio Promedio y Volumen):\n")
 
 # Limpiamos la columna price:
